@@ -1,0 +1,6 @@
+date,time,light,travel,wait_sec,area
+15-Oct,08:40,R,walk,35,station
+15-Oct,08:52,G,walk,0,uni
+16-Oct,09:15,R,bus,45,high_st
+16-Oct,14:20,A,walk,10,uni
+17-Oct,10:05,R,walk,50,station
