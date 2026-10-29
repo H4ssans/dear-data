@@ -36,3 +36,4 @@ date,time,light,travel,wait_sec,area
 2026-10-22,14:22,R,walk,34,high_st
 2026-10-23,19:05,R,bus,40,station
 2026-10-24,11:40,G,walk,0,shop
+2026-10-29,15:55,A,walk,15,uni
