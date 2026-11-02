@@ -15,3 +15,12 @@ date,time,light,travel,wait_sec,area
 23-Oct,15:10,R,bus,45,high_st
 24-Oct,12:05,R,walk,35,shop
 25-Oct,13:45,G,walk,0,shop
+26-Oct,08:45,R,walk,55,station
+27-Oct,09:10,A,bus,10,high_st
+27-Oct,16:50,R,walk,40,uni
+28-Oct,08:55,G,walk,0,station
+29-Oct,09:05,R,walk,35,uni
+30-Oct,08:40,R,bus,50,high_st
+31-Oct,14:15,G,walk,0,shop
+01-Nov,11:20,R,walk,25,shop
+02-Nov,08:45,R,walk,40,station
